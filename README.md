@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alam Zaib Ahmad | SRE Aspirant ☁️⚡  
+# 👋 Hi, I'm Alam Ahmed | Site Reliability Engineer  ☁️⚡  
 
 **Infrastructure as Code Enthusiast | Powered by Monster ™**  
 
@@ -7,7 +7,7 @@
 
 ### 📜 **Certifications**  
 [![Credly Profile](https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)  
-*Click above to verify my skills!*  
+*yes, these badges are real. No, I didn’t print them at home!*  
 
 ### 📈 **GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
@@ -23,7 +23,7 @@
 
 ### ⚡ **Fueled By**  
 [![Monster Energy](https://img.shields.io/badge/-Monster_Ultra™-000000?logo=monster&logoColor=white)](https://www.monsterenergy.com/)  
-*"Terraform apply at 2AM? Monster Ultra to the rescue."*  
+*"Terraform apply at 2AM? Monster’s my co-pilot."*  
 
 ![Homer Disappearing](https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif)  
 *"When `terraform destroy` was NOT a drill"*  
