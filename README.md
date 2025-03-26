@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Alam Zaib Ahmad | SRE Aspirant ☁️⚡  
 
-<!--
-**SREAlam/SREAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure as Code Enthusiast | Powered by Monster Ultra™ 
 
-Here are some ideas to get you started:
+### 🛠️ **Tech Stack**  
+`Terraform` | `AWS` | `Python` | `Kubernetes` | `Ansible` | `Cisco` | 'Azure'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📈 **GitHub Stats**  
+![Your GitHub St](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical)  
+
+### 🎧 **Current Vibes**  
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify)](https://open.spotify.com/user/yourusername)  
+*(Example: "Coding to synthwave—because retro beats fix bugs faster.")*  
+
+### ☕ **Fueled By**  
+[![Monster Energy](https://img.shields.io/badge/-Monster_Ultra™-000000?logo=monster)](https://www.monsterenergy.com/)  
+*"When Terraform fails at 2AM, Monster Ultra saves the day."*  
+
+---
+
+📫 **Let’s Connect**:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
