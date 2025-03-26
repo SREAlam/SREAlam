@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alam Zaib Ahmad | SRE Aspirant ☁️⚡  
 
-**Infrastructure as Code Enthusiast | Powered by Monster Ultra™**  
+**Infrastructure as Code Enthusiast | Powered by Monster ™**  
 
 ### 🛠️ **Tech Stack**  
 `Terraform` | `AWS` | `Python` | `Kubernetes` | `Ansible` | `Cisco`  
@@ -21,8 +21,8 @@
 [![Monster Energy](https://img.shields.io/badge/-Monster_Ultra™-000000?logo=monster&logoColor=white)](https://www.monsterenergy.com/)  
 *"Terraform apply at 2AM? Monster Ultra to the rescue."*  
 
-![Homer Gone](https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif)  
-*"Me watching the deployment pipeline fail at 3AM"*  
+![Homer Disappearing](https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif)  
+*"When `terraform destroy` was NOT a drill"*  
 
 ---
 
