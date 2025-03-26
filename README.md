@@ -8,6 +8,11 @@
 ### 📈 **GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
 
+### ☁️ **Terraform Truths**  
+- "`apply` is just `destroy` in a fancy hat"  
+- "Yes, I test in prod. No, I don't sleep."  
+- "My therapist says 'state file' and 'lock' a lot."  
+
 ### 🎧 **Live Coding Vibes**  
 [![Spotify](https://img.shields.io/badge/-Current_Playlist-1DB954?logo=spotify)](https://open.spotify.com/user/73jlo6ahduutlscm3hbxbg7zf)  
 *"Synthwave > compiler errors"*  
@@ -16,8 +21,8 @@
 [![Monster Energy](https://img.shields.io/badge/-Monster_Ultra™-000000?logo=monster&logoColor=white)](https://www.monsterenergy.com/)  
 *"Terraform apply at 2AM? Monster Ultra to the rescue."*  
 
-![Homer Gone](https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif)
-*"Me watching the deployment pipeline fail at 3AM"*
+![Homer Gone](https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif)  
+*"Me watching the deployment pipeline fail at 3AM"*  
 
 ---
 
