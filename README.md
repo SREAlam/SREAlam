@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Alam Zaib Ahmad | SRE Aspirant ☁️⚡  
 
 **Infrastructure as Code Enthusiast | Powered by Monster ™**  
+[![My Certifications](https://img.shields.io/badge/-Credly_Certifications-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)  
 
 ### 🛠️ **Tech Stack**  
 `Terraform` | `AWS` | `Python` | `Kubernetes` | `Ansible` | `Cisco`  
