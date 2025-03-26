@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Alam Zaib Ahmad | SRE Aspirant ☁️⚡  
 
 **Infrastructure as Code Enthusiast | Powered by Monster ™**  
-[![My Certifications](https://img.shields.io/badge/-Credly_Certifications-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)  
 
 ### 🛠️ **Tech Stack**  
 `Terraform` | `AWS` | `Python` | `Kubernetes` | `Ansible` | `Cisco`  
+
+### 📜 **Certifications**  
+[![Credly Profile](https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)  
+*Click above to verify my skills!*  
 
 ### 📈 **GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
@@ -26,7 +29,6 @@
 *"When `terraform destroy` was NOT a drill"*  
 
 ---
-
 📫 **Let's Collaborate**:  
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/alam-ahmed-133360291/)  
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?logo=gmail)](mailto:alamzaibahmad615@gmail.com)  
