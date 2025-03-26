@@ -3,7 +3,7 @@
 Infrastructure as Code Enthusiast | Powered by Monster Ultra™ 
 
 ### 🛠️ **Tech Stack**  
-`Terraform` | `AWS` | `Python` | `Kubernetes` | `Ansible` | `Cisco` | 'Azure'
+`Terraform` | `AWS` | `Python` | `Kubernetes` | `Ansible` | `Cisco` | 
 
 
 ### 📈 **GitHub Stats**  
@@ -20,5 +20,5 @@ Infrastructure as Code Enthusiast | Powered by Monster Ultra™
 ---
 
 📫 **Let’s Connect**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/alam-ahmed-133360291/)  
+  
