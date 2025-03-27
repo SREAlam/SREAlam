@@ -11,7 +11,7 @@
 *"Validated cloud skills that actually match my LinkedIn"*  
 
 ### 📊 **GitHub Analytics**  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=SREAlam&theme=radical&hide_border=true) |  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|  
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SREAlam&layout=compact&theme=radical&hide_border=true&langs_count=6) | *"Consistency >> genius"*                                                                      |  
 
