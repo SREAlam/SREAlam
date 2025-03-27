@@ -1,33 +1,25 @@
-# 👋 Hi, I'm Alam Ahmed | Site Reliability Engineer  ☁️⚡  
+# 👋 Hi, I'm Alam Zaib Ahmad | Cloud Reliability Engineer ☁️🛡️  
 
-**Infrastructure as Code Enthusiast | Powered by Monster ™**  
+**"I turn caffeine into 99.99% uptime"**  
 
 ### 🛠️ **Tech Stack**  
-`Terraform` | `AWS` | `Python` | `Kubernetes` | `Ansible` | `Cisco`  
+`Terraform` | `AWS` | `Kubernetes` | `Python` | `Prometheus/Grafana` | `Ansible` | `Cisco`  
 
 ### 📜 **Certifications**  
-[![Credly Profile](https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)  
-*yes, these badges are real. No, I didn’t print them at home!*  
+[![Credly Profile](https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)
+
+*"Proof I can cloud without breaking production (often)"*  
 
 ### 📊 **GitHub Analytics**  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=SREAlam&theme=radical&hide_border=true) |  
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|  
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SREAlam&layout=compact&theme=radical&hide_border=true&langs_count=6) | *"Consistency >> genius"*                                                                      |  
+| ![Detailed Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues) | ![Streak Stats](https://streak-stats.demolab.com?user=SREAlam&theme=radical&hide_border=true) |  
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|  
 
-☁️ Terraform War Stories (from the Trenches)
-"terraform apply --auto-approve is my love language."
+### ☁️ **Cloud War Stories**  
+- **"`terraform apply`** is my love language."  
+- **"I don’t test in prod,** prod tests me." *(SRE Zen)*  
+- **"My ideal weekend:** `kubectl drain saturday --force`."  
 
-"I’d tell you a Terraform joke, but you’d have to terraform init first."
-
-"My resume is just a list of terraform destroy incidents I survived."
-
-"State file conflicts? That’s just the universe testing my patience."
-
-"I don’t need backups, I need a time_machine resource." (Coming in v1.7 🤞)
-
-"Error: Unauthorized — My life story in two words."
-
-### 🎧 **Live Coding Vibes**  
+ ### 🎧 **Live Coding Vibes**  
 [![Spotify](https://img.shields.io/badge/-Current_Playlist-1DB954?logo=spotify)](https://open.spotify.com/user/73jlo6ahduutlscm3hbxbg7zf)  
 *"Synthwave > compiler errors"*  
 
@@ -35,10 +27,10 @@
 [![Monster Energy](https://img.shields.io/badge/-Monster_Ultra™-000000?logo=monster&logoColor=white)](https://www.monsterenergy.com/)  
 *"Terraform apply at 2AM? Monster’s my co-pilot."*  
 
-![Homer Disappearing](https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif)  
 *"When `terraform destroy` was NOT a drill"*  
+![Homer Disappearing](https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif)  
 
 ---
-📫 **Let's Connect**:  
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/alam-ahmed-133360291/)  
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?logo=gmail)](mailto:alamzaibahmad615@gmail.com)  
+📫 **Let’s Build Reliable Systems Together**:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/alam-ahmed-133360291/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:alamzaibahmad615@gmail.com)  
