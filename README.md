@@ -1,13 +1,19 @@
 # 👋 Hi, I'm Alam Zaib Ahmad | Cloud Reliability Engineer ☁️🛡️  
 
-**"I turn caffeine into 99.99% uptime"**  
+**"Fueled by Monster Energy, I turn caffeine into 99.99% uptime."**  
+
+---
 
 ### 🛠️ **Tech Stack**  
 `Terraform` | `AWS` | `Kubernetes` | `Python` | `Prometheus/Grafana` | `Ansible` | `Cisco`  
 
+---
+
 ### 📜 **Certifications**  
 [![Credly Profile](https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)  
-*"Validated cloud skills that actually match my LinkedIn"*  
+*"Cloud skills validated, caffeine levels unregulated."*  
+
+---
 
 ### 📊 **GitHub Analytics**  
 <div align="center">
@@ -18,16 +24,25 @@
 
 </div>
 
+---
+
 ### ☁️ **Cloud War Stories**  
 - **"`terraform apply`** is my love language."  
 - **"I don’t test in prod,** prod tests me." *(SRE Zen)*  
 - **"My ideal weekend:** `kubectl drain saturday --force`."  
+- **"Cisco CLI > small talk."**  
+
+---
 
 ### 🎧 **Live Coding Vibes**  
 [![Spotify](https://img.shields.io/badge/-Current_Playlist-1DB954?logo=spotify)](https://open.spotify.com/user/73jlo6ahduutlscm3hbxbg7zf)  
-*"Synthwave > compiler errors"*  
+*"Synthwave beats, Terraform plans, and Monster Energy cans."*  
 
+---
+
+### 🧑‍💻 **Fun Fact**  
 ```python
 while True: 
     drink_monster()
     fix_prod()
+    laugh_at_logs()
