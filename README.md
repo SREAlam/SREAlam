@@ -1,48 +1,32 @@
-# 👋 Hi, I'm Alam Zaib Ahmed | Cloud Reliability Engineer ☁️🛡️  
+👋 Hi, I'm Alam Zaib Ahmed | Cloud Platform Engineer ☁️🛡️
+"Fueled by Monster Energy, I automate uptime and outsmart outages."
 
-**"Fueled by Monster Energy, I turn caffeine into 99.99% uptime."**  
+🛠️ Tech Stack
+Terraform | AWS | Kubernetes | Python | Prometheus/Grafana | Ansible | Jenkins | Cisco
 
----
+📜 Certifications
 
-### 🛠️ **Tech Stack**  
-`Terraform` | `AWS` | `Kubernetes` | `Python` | `Prometheus/Grafana` | `Ansible` | `Jenkins` | `Cisco`  
+<img alt="Credly Profile" src="https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&amp;logoColor=white">
 
----
-
-### 📜 **Certifications**  
-[![Credly Profile](https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/alam-zaib-ahmad)  
-*"Cloud skills validated, caffeine levels unregulated."*  
-
----
-
-### 📊 **GitHub Analytics**  
+"Cloud skills certified, caffeine always verified."
+📊 GitHub Analytics
 <div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREAlam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SREAlam&layout=compact&theme=radical&hide_border=true&langs_count=6) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=SREAlam&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D) | |
-
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SREAlam&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SREAlam&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6">
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=SREAlam&amp;theme=radical&amp;hide_border=true&amp;date_format=j M[ Y]">
 </div>
+☁️ Cloud War Stories
+"terraform apply is my daily affirmation."
+"I don’t fear incidents—incidents fear my runbooks."
+"My weekend plans? kubectl cordon friday and relax."
+"Jenkins pipelines: because coffee breaks shouldn’t break prod."
+🎧 Live Coding Vibes
 
----
+<img alt="Spotify" src="https://img.shields.io/badge/-Current_Playlist-1DB954?logo=spotify">
 
-### ☁️ **Cloud War Stories**  
-- **"`terraform apply`** is my love language."  
-- **"I don’t test in prod,** prod tests me." *(SRE Zen)*  
-- **"My ideal weekend:** `kubectl drain saturday --force`."  
-- **"Jenkins pipelines > small talk."**  
-
----
-
-### 🎧 **Live Coding Vibes**  
-[![Spotify](https://img.shields.io/badge/-Current_Playlist-1DB954?logo=spotify)](https://open.spotify.com/user/73jlo6ahduutlscm3hbxbg7zf)  
-*"Synthwave beats, Terraform plans, and Monster Energy cans."*  
-
----
-
-### 🧑‍💻 **Fun Fact**  
-```python
-while True: 
+"Synthwave beats, Terraform plans, and Monster Energy cans."
+🧑‍💻 Fun Fact
+while True:
     drink_monster()
-    build_pipelines()
-    laugh_at_logs()
+    automate_everything()
+    celebrate_green_builds()
