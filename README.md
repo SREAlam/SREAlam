@@ -1,33 +1,55 @@
-👋 Hi, I'm Alam Zaib Ahmed | Cloud Platform Engineer ☁️🛡️
+# 👋 Alam Zaib Ahmed | Cloud & IaC Specialist ☁️⚡
 
-"Fueled by Monster Energy, I automate uptime and outsmart outages."
+> *"Terraforming AWS with Go-powered automation - one Monster Energy at a time."*
 
-🛠️ Tech Stack
-Terraform | AWS | Kubernetes | Python | Prometheus/Grafana | Ansible | Jenkins | Cisco
+## 🛠️ Core Expertise
 
-📜 Certifications
+**Infrastructure as Code**  
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/cdk/)
+[![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?logo=pulumi&logoColor=white)](https://www.pulumi.com/)
 
-<img alt="Credly Profile" src="https://img.shields.io/badge/-View_all_my_badges-FF6B00?logo=credly&amp;logoColor=white">
+**Cloud Platforms**  
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![AWS Certified](https://img.shields.io/badge/-AWS_Certified-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com)
 
-"Cloud skills certified, caffeine always verified."
-📊 GitHub Analytics
-<div align="center">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SREAlam&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SREAlam&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6">
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=SREAlam&amp;theme=radical&amp;hide_border=true&amp;date_format=j M[ Y]">
-</div>
-☁️ Cloud War Stories
-"terraform apply is my daily affirmation."
-"I don’t fear incidents—incidents fear my runbooks."
-"My weekend plans? kubectl cordon friday and relax."
-"Jenkins pipelines: because coffee breaks shouldn’t break prod."
-🎧 Live Coding Vibes
+**Programming**  
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)
 
-<img alt="Spotify" src="https://img.shields.io/badge/-Current_Playlist-1DB954?logo=spotify">
+**DevOps Toolchain**  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-"Synthwave beats, Terraform plans, and Monster Energy cans."
-🧑‍💻 Fun Fact
-while True:
-    drink_monster()
-    automate_everything()
-    celebrate_green_builds()
+## 🚀 Recent IaC Projects
+
+- **Multi-Cloud Terraform Modules** - Reusable modules for AWS/GCP deployments
+- **AWS Landing Zone** - Automated account provisioning with SCPs and Guardrails
+- **K8s Operator in Go** - Custom controller for managing cloud resources
+- **Serverless Framework** - Lambda-based event processors with Python
+
+## 📜 Certifications
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com)
+[![Terraform Certified](https://img.shields.io/badge/Hashicorp-Certified-7B42BC?logo=terraform&logoColor=white)](https://www.hashicorp.com/certification)
+[![Kubernetes Certified](https://img.shields.io/badge/CNCF-Certified-326CE5?logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/)
+
+> *"Validating cloud expertise between energy drink sips"*
+
+## 💻 Code & Contributions
+
+```python
+# Simple AWS S3 Terraform module in Python CDK
+from aws_cdk import (
+    aws_s3 as s3,
+    core
+)
+
+class SecureBucketStack(core.Stack):
+    def __init__(self, scope: core.Construct, id: str, **kwargs) -> None:
+        super().__init__(scope, id, **kwargs)
+        
+        s3.Bucket(
+            self, "SecureDataLake",
+            encryption=s3.BucketEncryption.S3_MANAGED,
+            block_public_access=s3.BlockPublicAccess.BLOCK_ALL
+        )
